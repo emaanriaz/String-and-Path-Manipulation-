@@ -1,4 +1,5 @@
-This program implements a set of C++ string manipulation utilities that are similar to those in python. Additionally, it implements a C++ path class that eases the manipulation of path names in Linux. 
+This program implements a set of C++ string manipulation utilities that are similar to those in python. 
+Additionally, it implements a C++ path class that eases the manipulation of path names in Linux. 
 
 Sources used: 
 
